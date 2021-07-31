@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+        background-image: url("https://cdns.klimg.com/merdeka.com/i/w/news/2015/03/06/508949/540x270/mcd-setop-gunakan-ayam-disuntik-antibiotik-dalam-menu.jpg")
+}
+
+h1 {
+    color: salmon
+}
+
+li {
+    font-style: italic bold;
+    font-weight: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
